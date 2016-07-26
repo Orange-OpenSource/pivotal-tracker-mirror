@@ -8,5 +8,5 @@ This is mirroring is automated using https://github.com/ArthurHlt/pivotaltracker
 
 Apologies if as part of this POC we have accidentally and transiently:
 * added extra polutting [issue mentions](https://github.com/blog/957-introducing-issue-mentions) while mirroring markdown content of pivotal stories which uses the same mention markdown syntax: you may have received undesired mentions, please ignore them with our apologies.
-* added extra polutting issue cross references. We'll try to find a way to cleanup this undesired pollution (by deleting this repo, making it private?)
+* added extra polutting issue cross references. We'll try to find a way to cleanup this undesired pollution (by disabling issues, by deleting this repo, making it private). See further analysis into https://github.com/ArthurHlt/pivotaltrackermirror/issues/1
 
