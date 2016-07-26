@@ -6,4 +6,7 @@ The goal of such mirror is to help the Cf community track progress of the CF piv
 
 This is mirroring is automated using https://github.com/ArthurHlt/pivotaltrackermirror
 
-Apologies if as part of this POC we have accidentally added extra polutting [issue mentions](https://github.com/blog/957-introducing-issue-mentions) while mirroring markdown contenrt of pivotal stories which uses the same mention markdown syntax. 
+Apologies if as part of this POC we have accidentally and transiently:
+* added extra polutting [issue mentions](https://github.com/blog/957-introducing-issue-mentions) while mirroring markdown contenrt of pivotal stories which uses the same mention markdown syntax: you may have received undesired mentions, please ignore them with our apologies.
+* added extra polutting issue cross references. We'll try to find a way to cleanup this undesired pollution (by deleting this repo, making it private?)
+
